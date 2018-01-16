@@ -1,0 +1,9 @@
+/Users/ryanyang/Desktop/LocalNotifications/Notifications/bin/iPhoneSimulator/Debug/Notifications.exe
+/Users/ryanyang/Desktop/LocalNotifications/Notifications/bin/iPhoneSimulator/Debug/Notifications.pdb
+/Users/ryanyang/Desktop/LocalNotifications/Notifications/obj/iPhoneSimulator/Debug/Notifications.csproj.CoreCompileInputs.cache
+/Users/ryanyang/Desktop/LocalNotifications/Notifications/obj/iPhoneSimulator/Debug/Notifications.exe
+/Users/ryanyang/Desktop/LocalNotifications/Notifications/obj/iPhoneSimulator/Debug/Notifications.pdb
+/Users/ryanyang/Desktop/LocalNotifications/Notifications/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/ryanyang/Desktop/LocalNotifications/Notifications/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
+/Users/ryanyang/Desktop/LocalNotifications/Notifications/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/ryanyang/Desktop/LocalNotifications/Notifications/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
